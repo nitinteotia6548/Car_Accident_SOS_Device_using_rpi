@@ -1,0 +1,2 @@
+# Car_Accident_SOS_Device_using_rpi
+A device which is installed in cars, it gets activated when the circuit breaks (in real world scenario, on inflation of airbags) it sends a call and sms containing location coordinates of the victim and a video of the accident scene to nearbuy hospital and police station using Google Maps API, camera module and GSM module. This whole implemention is done on RaspberryPi.
